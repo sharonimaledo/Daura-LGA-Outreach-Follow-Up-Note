@@ -38,8 +38,9 @@ Microsoft Excel: pivot tables, live formulas and side-by-side comparison tables.
 * **Decision Note:** One-page PDF for the outreach in-charge.
 * **Data and Analysis (Excel Workbooks):**
    * Side-by-side workbook: Comparison, Notes, Attendees, NonAttendees and Staff sheets
-   * Attendee pivot summaries
-   * Non-attender survey, pivot summaries and data dictionary
+   * Attendee survey, pivot summaries
+   * Non-attender survey, pivot summaries
+   * Staff survey, pivot summaries
 
 ## Limits
 
